@@ -7,18 +7,18 @@ ul{
     padding: 0;
     list-style: none;
 }
-body{
+ body{
     font-size: 16px;
-    font-family: "Montserrat", sans-serif;
+    font-family: Verdana, sans-serif;
     line-height: 1.5em;
     text-align: left;
     color: #2d2d2d;
     background-color: #fff;
-    font-weight: 400;
+   font-weight: 400;
 }
-.header{
+/* .header{
 
-}
+} */
 .container{
     max-width: 1200px;
     margin: 0 auto;
@@ -34,11 +34,13 @@ body{
     padding: 0 30px;
 }
 .h1{
-    font-size: 48px;
+    /* font-family: Georgia, 'Times New Roman', Times, serif, sans-serif; */
+    font-style: italic;
+    font-size: 36px;
     line-height: 1.2em;
     text-align: center;
     font-weight: 700;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 .h2, .h3, .h4{
     font-size: 21px;
